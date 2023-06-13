@@ -1,0 +1,12 @@
+#navbarSupportedContent {
+    display: grid!important;
+grid-template-columns: repeat(3,17%);
+justify-content: flex-end;
+}
+.navbar-brand , .nav-link{
+    color: rgba(7, 121, 35, 0.938);
+    font-size: smaller;
+    font-weight: bold;}
+.navbar{
+    padding: 25px;
+}
